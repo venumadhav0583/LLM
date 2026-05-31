@@ -1,0 +1,5 @@
+# Ignore large paper and research directories
+/Papers/
+/Research/
+
+# Add any other local ignores below
